@@ -1,0 +1,11 @@
+mysql -uroot -p
+
+*Enter Password*
+
+CREATE USER 'nextcloud' IDENTIFIED by 'pick_a_password'
+
+CREATE DATABASE IF NOT EXISTS nextcloud;
+
+GRANT ALL PRIVILEGES ON nextcloud.* TO 'nextcloud' IDENTIFIED BY 'choosen_password';
+
+

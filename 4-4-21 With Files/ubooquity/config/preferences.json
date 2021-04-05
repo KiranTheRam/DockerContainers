@@ -1,0 +1,82 @@
+{
+  "filesPaths" : [ {
+    "pathString" : "/files",
+    "userName" : [ ]
+  } ],
+  "comicsPaths" : [ {
+    "pathString" : "/comics",
+    "userName" : [ "kiran", "fred", "sura", "veer", "guest" ]
+  }, {
+    "pathString" : "/manga",
+    "userName" : [ "kiran", "altin" ]
+  }, {
+    "pathString" : "/otherComics",
+    "userName" : [ "kiran", "jerry", "guest" ]
+  } ],
+  "booksPaths" : [ {
+    "pathString" : "/LNs",
+    "userName" : [ "kiran", "altin" ]
+  }, {
+    "pathString" : "/books",
+    "userName" : [ "kiran", "sura", "veer", "shelly", "jerry", "guest" ]
+  } ],
+  "users" : [ {
+    "name" : "kiran",
+    "passwordHash" : "d0a27bb41b4ef3fc7e55a8fa5f7cc9180bfe0fd7e4599aa7b503113da90c65c8"
+  }, {
+    "name" : "fred",
+    "passwordHash" : "340c9e6c2e2b0caf05985e624cb7b62483d71130c0e0aae6bde536deae1d5f58"
+  }, {
+    "name" : "sura",
+    "passwordHash" : "ab6347b9bde361b7a2799a887d40221db93e38a7e8187148951e34ab6b8f30d9"
+  }, {
+    "name" : "veer",
+    "passwordHash" : "ab6347b9bde361b7a2799a887d40221db93e38a7e8187148951e34ab6b8f30d9"
+  }, {
+    "name" : "shelly",
+    "passwordHash" : "ab6347b9bde361b7a2799a887d40221db93e38a7e8187148951e34ab6b8f30d9"
+  }, {
+    "name" : "jerry",
+    "passwordHash" : "ab6347b9bde361b7a2799a887d40221db93e38a7e8187148951e34ab6b8f30d9"
+  }, {
+    "name" : "guest",
+    "passwordHash" : "ab6347b9bde361b7a2799a887d40221db93e38a7e8187148951e34ab6b8f30d9"
+  }, {
+    "name" : "altin",
+    "passwordHash" : "ab6347b9bde361b7a2799a887d40221db93e38a7e8187148951e34ab6b8f30d9"
+  } ],
+  "isFilesProviderEnabled" : true,
+  "isComicsProviderEnabled" : true,
+  "isBooksProviderEnabled" : true,
+  "isUserManagementEnabled" : true,
+  "libraryPortNumber" : 2202,
+  "adminPortNumber" : 2203,
+  "comicWidth" : 160,
+  "comicHeight" : 230,
+  "comicsPaginationNumber" : 30,
+  "bookWidth" : 160,
+  "bookHeight" : 230,
+  "booksPaginationNumber" : 30,
+  "minimizeToTray" : false,
+  "minimizeOnStartup" : false,
+  "autoscanPeriod" : 4320,
+  "isRemoteAdminEnabled" : false,
+  "theme" : "darktheme-master",
+  "isShrinkingCacheEnabled" : false,
+  "shrunkPageWidth" : 1536,
+  "shrunkPageHeight" : 2500,
+  "shrinkingCachePath" : "",
+  "autoScanAtLaunch" : true,
+  "reverseProxyPrefix" : "ubooquity",
+  "keystorePath" : "",
+  "keystorePassword" : "",
+  "isOpdsProviderEnabled" : true,
+  "folderExclusionPattern" : "",
+  "bypassSingleRootFolder" : true,
+  "enableFolderMetadataDisplay" : false,
+  "bookmarkUsingCookies" : false,
+  "displayTitleInsteadOfFileName" : false,
+  "keepUnreachableSharedFolders" : false,
+  "isCalibreLibrary" : false,
+  "instanceId" : "c7fd61191e4d4b879d273c108a276513"
+}

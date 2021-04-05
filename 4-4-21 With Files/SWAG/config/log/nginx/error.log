@@ -1,0 +1,2 @@
+2021/04/05 01:48:39 [error] 479#479: *31 connect() failed (111: Connection refused) while connecting to upstream, client: 24.191.200.127, server: _, request: "GET /mango/ HTTP/2.0", upstream: "http://192.168.1.34:9000/", host: "ramjisingh.duckdns.org"
+2021/04/05 01:49:45 [error] 479#479: *43 connect() failed (111: Connection refused) while connecting to upstream, client: 24.191.200.127, server: _, request: "GET /mango/ HTTP/2.0", upstream: "http://192.168.1.34:9000/", host: "ramjisingh.duckdns.org"
